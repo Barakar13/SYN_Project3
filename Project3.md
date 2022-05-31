@@ -9,7 +9,7 @@ To get more introverted individuals in the activities, I come to realize that we
 
 ## Recognition of Beauty of Nature Itself
 
-In a talk ["Connecting Global Change to Local Impacts & Solutions"](https://www.youtube.com/watch?v=FHkZ7aOE3hQ&feature=youtu.be), the lecturer HayHeo create a word cloud to show what we come up with immediately about climate change. The word "Polar Bear '' largely show up in the center of this word cloud. The picture behind this word is to describe a single polar bear standing on a melting ice cap. ![polarBear](https://metro.co.uk/wp-content/uploads/2019/11/PRI_95003535.jpg?quality=90&strip=all) This picture shows the bad consequence caused by the global warming on the polar bear to advocate to decrease the CO2 emission. However, this type of picture limits the public in a mindset. Since the environment deteriorates and brings back consequences, we should take actions to protect the environment. This mindset doesn't truly motivate people to actively change the status quo of the environment because in this mindset, many reports of the bad consequences of ecological changes only bring hopelessness and anxiety to individuals. People intuitively like to see the positive side of one issue so why not make people appreciate the beauty of nature and understand what we will lose if the environment keeps deteriorating. 
+In a talk ["Connecting Global Change to Local Impacts & Solutions"](https://www.youtube.com/watch?v=FHkZ7aOE3hQ&feature=youtu.be), the lecturer HayHeo create a word cloud to show what we come up with immediately about climate change. The word "Polar Bear '' largely show up in the center of this word cloud. The picture behind this word is to describe a single polar bear standing on a melting ice cap. ![polarBear](https://metro.co.uk/wp-content/uploads/2019/11/PRI_95003535.jpg?quality=90&strip=all) This picture shows the bad consequence caused by the global warming on the polar bear to advocate to decrease the CO2 emission. However, this type of picture limits the public in a mindset. Since the environment deteriorates and brings back consequences, we should take actions to protect the environment. This mindset doesn't truly motivate people to actively change the status quo of the environment because in this mindset, many reports of the bad consequences of ecological changes only bring hopelessness and anxiety to individuals. People intuitively like to see the positive side of one issue so why not make people appreciate the beauty of nature and understand what we will lose if the environment keeps deteriorating. ![sunsetWetland](https://cdn.pixabay.com/photo/2020/09/08/21/12/sea-5555891_960_720.jpg) In 
 
 
 
@@ -18,5 +18,9 @@ In a talk ["Connecting Global Change to Local Impacts & Solutions"](https://www.
 Corbett, Sarah. "Activism needs introverts", *TED*, November 2017, https://www.ted.com/talks/sarah_corbett_activism_needs_introverts 
 
 Hathearine, HayHoe. "Connecting Global Change to Local Impacts & Solutions", https://www.youtube.com/watch?v=FHkZ7aOE3hQ&feature=youtu.be
+
+Ben, Depp. "Capturing Louisiana's Disappearing WetLands", https://www.youtube.com/watch?v=XV704idfOkE&t=3s
+
+
 
 
