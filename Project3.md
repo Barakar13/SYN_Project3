@@ -18,11 +18,25 @@ When people start to regard environmental change as a local issue, individuals c
 
 ## More Relevant Information of the Natural Beauty and Local Environmental Changes
 Coral Reef:
+![beautifulCoralReef](https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20190802142001/iStock-613678930.jpg)
 The colorful coral reef also shows the beauty of the natural environment. However, the coral reef is sensitive to the global temperature. In the “How does climate change affect coral reefs?” from National Ocean Service, as the global temperature keeps increasing, mass [coral bleaching](https://oceanservice.noaa.gov/facts/coral_bleach.html) events and [infectious disease](https://oceanservice.noaa.gov/education/tutorial_corals/coral10_disease.html) outbreaks are becoming more frequent. The death of coral reefs not only lose the beautiful color, but lose the ability to support other marine species.
 ![coral](https://static1.thetravelimages.com/wordpress/wp-content/uploads/2019/07/Great-Barrier-reef-before-and-after.jpg)
 
-Individuals Actions:
+Texas Wind Storm:
+![windStorm](https://comptroller.texas.gov/economy/fiscal-notes/2021/oct/images/winter-storm-impact-hero.jpg)
+In 2021, the wind storm Uri , the severe weather event, makes residents rarely experience the significant snow accumulation as the power blackout spans in Feb. The increasing global temperature causes a larger temperature difference than before so the stronger wind storm uri shows the local influence of the global climate issue. This type of rare phenomenon is continuing to occur locally around the world. 
+
+## Suggestions for Individuals’ Actions:
 In one website of London Imperial College, it provides [9 suggestions](https://www.imperial.ac.uk/stories/climate-action/) to individuals about how they can participate in the activities to help climate change. In this way, individuals can make local changes and devote their power to solve the global environmental change. 
+1. Make your voices heard by those in power
+2. Eat less meat and dairy
+3. Cut back on flying
+4. Leave the car at home
+5. Reduce your energy use, and bills
+6. Respect and protect green spaces
+7. Invest your money responsibly
+8. Cut consumption and waste
+9. Talk about the changes you make
 
 
 
@@ -44,6 +58,7 @@ National Ocean Service. “How does climate change affect coral reefs?”.  http
 
 Imperial London College, “9 things you can do about climate change”. https://www.imperial.ac.uk/stories/climate-action/
 
+Jess, Donald. “Wind Storm Uri 2021”. https://comptroller.texas.gov/economy/fiscal-notes/2021/oct/winter-storm-impact.php
 
 
 
